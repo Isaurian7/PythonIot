@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{afa39339-243b-4dd4-916b-bdbf3673eb98}</ProjectGuid>
     <ProjectHome />
-    <StartupFile>grovepi.py</StartupFile>
+    <StartupFile>xSystemTest.py</StartupFile>
     <SearchPath>..\..\..\..\..\AppData\Local\Programs\Python\Python310\</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
